@@ -5,4 +5,6 @@ fruit.append("kiwi",)
 print(fruit)
 
 fruit.insert(2, "water melon")
-print(fruit)
+print(fruit) 
+
+len(fruit)
